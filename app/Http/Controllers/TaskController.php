@@ -13,7 +13,7 @@ use App\Http\Requests\CreateTask;
 use App\Http\Requests\EditTask;
 //2.22追加
 use Illuminate\Support\Facades\Auth;
-// ★ Authクラスをインポートする 2.23追加
+// ★ Authクラスをインポートする 2.23追加⭐︎
 
 class TaskController extends Controller
 {
